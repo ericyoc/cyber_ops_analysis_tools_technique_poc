@@ -1,4 +1,4 @@
-# Cyber Kill Chain and MITRE ATT&CK Stages, Tools, and Techniques
+# Cyber Operations Analysis Tools and Techniques
 
 This repository provides a comprehensive mapping of the Cyber Kill Chain and MITRE ATT&CK frameworks to various tools and techniques commonly used in malware analysis, reverse engineering, and software exploitation analysis. By understanding how these frameworks align with specific tools and techniques, security professionals can effectively investigate, analyze, and mitigate cyber threats.
 
