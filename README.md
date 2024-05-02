@@ -18,13 +18,13 @@ Mapping the Cyber Kill Chain and MITRE ATT&CK frameworks to tools and techniques
 
 This repository contains the following:
 
-![Table 1.](https://github.com/ericyoc/cyber_ops_analysis_tools_techniques/blob/main/tables/Table_1__Analysis_Techniques.csv)
-![Table 2.](https://github.com/ericyoc/cyber_ops_analysis_tools_techniques/blob/main/tables/Table_2__Artifacts_and_Network_Activity.csv)
-![Table 3.](https://github.com/ericyoc/cyber_ops_analysis_tools_techniques/blob/main/tables/Table_3__Analysis_Platforms.csv)
-![Table 4.](https://github.com/ericyoc/cyber_ops_analysis_tools_techniques/blob/main/tables/Table_4__Anti-Analysis_Techniques.csv)
-![Table 5.](https://github.com/ericyoc/cyber_ops_analysis_tools_techniques/blob/main/tables/Table_5__Sandbox_Analysis.csv)
-![Table 6.](https://github.com/ericyoc/cyber_ops_analysis_tools_techniques/blob/main/tables/Table_6__Offense_and_Defense_Examples.csv)
-![Table 7.](https://github.com/ericyoc/cyber_ops_analysis_tools_techniques/blob/main/tables/Table_7__Representative_Malware_Families.csv)
+[Table 1.](https://github.com/ericyoc/cyber_ops_analysis_tools_techniques/blob/main/tables/Table_1__Analysis_Techniques.csv)
+[Table 2.](https://github.com/ericyoc/cyber_ops_analysis_tools_techniques/blob/main/tables/Table_2__Artifacts_and_Network_Activity.csv)
+[Table 3.](https://github.com/ericyoc/cyber_ops_analysis_tools_techniques/blob/main/tables/Table_3__Analysis_Platforms.csv)
+[Table 4.](https://github.com/ericyoc/cyber_ops_analysis_tools_techniques/blob/main/tables/Table_4__Anti-Analysis_Techniques.csv)
+[Table 5.](https://github.com/ericyoc/cyber_ops_analysis_tools_techniques/blob/main/tables/Table_5__Sandbox_Analysis.csv)
+[Table 6.](https://github.com/ericyoc/cyber_ops_analysis_tools_techniques/blob/main/tables/Table_6__Offense_and_Defense_Examples.csv)
+[Table 7.](https://github.com/ericyoc/cyber_ops_analysis_tools_techniques/blob/main/tables/Table_7__Representative_Malware_Families.csv)
 
 
 ## Contributions
