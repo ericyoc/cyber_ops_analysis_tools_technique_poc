@@ -1,0 +1,15 @@
+Cyber Kill Chain,MITRE ATT&CK,Offense Example,Defense Example
+Reconnaissance,Reconnaissance,Scanning target networks and systems for vulnerabilities,"Implementing firewalls, IDS/IPS, and network segmentation"
+Weaponization,Resource Development,Developing custom malware or exploits tailored to target systems,Conducting secure coding practices and regular security assessments
+,Initial Access,Exploiting vulnerabilities to gain initial access to target systems,Applying security patches and maintaining strong access controls
+,Execution,Executing malicious code or commands on compromised systems,Implementing application whitelisting and endpoint detection and response (EDR)
+Delivery,Persistance,Establishing persistent access through backdoors or malware,Regularly monitoring systems for suspicious activities and unauthorized changes
+,Privilege Escalation,Exploiting vulnerabilities to gain higher privileges on compromised systems,Implementing least privilege principles and regularly auditing user permissions
+,Defense Evasion,"Using obfuscation, encryption, or anti-analysis techniques to evade detection",Employing multi-layered defenses and behavioral analysis tools
+Exploitation,Credential Access,Stealing user credentials through techniques like keylogging or credential dumping,Implementing strong authentication mechanisms and regularly monitoring for suspicious login attempts
+,Discovery,Exploring compromised systems to gather information and identify valuable targets,Implementing network segmentation and regularly monitoring for unauthorized network discovery attempts
+Installation,Lateral Movement,Moving laterally across the compromised network to access additional systems,Implementing network segmentation and monitoring for unusual network traffic patterns
+,Collection,Collecting sensitive data from compromised systems,Implementing data loss prevention (DLP) solutions and monitoring for unauthorized data access
+Command and Control (C2),Command and Control (C2),Establishing communication channels between compromised systems and attacker-controlled servers,Implementing network monitoring and filtering to detect and block malicious C2 traffic
+Action on Objectives,Exfiltration,Exfiltrating stolen data from compromised systems to attacker-controlled servers,Implementing data loss prevention (DLP) solutions and monitoring for unauthorized data transfers
+,Impact,"Disrupting or destroying compromised systems, or encrypting data for ransom",Implementing incident response plans and regularly conducting backup and restore tests

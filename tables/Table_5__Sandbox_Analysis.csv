@@ -1,0 +1,15 @@
+Cyber Kill Chain,MITRE ATT&CK,Online Sandbox,Local Sandbox
+Reconnaissance,Reconnaissance,,
+Weaponization,Resource Development,X,
+,Initial Access,,
+,Execution,,QEMU
+Delivery,Persistance,,
+,Privilege Escalation,,QEMU
+,Defense Evasion,,QEMU
+Exploitation,Credential Access,,
+,Discovery,,QEMU
+Installation,Lateral Movement,,QEMU
+,Collection,,
+Command and Control (C2),Command and Control (C2),,
+Action on Objectives,Exfiltration,,
+,Impact,,QEMU

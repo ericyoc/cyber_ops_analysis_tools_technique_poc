@@ -1,0 +1,15 @@
+Cyber Kill Chain,MITRE ATT&CK,Kali,FLARE
+Reconnaissance,Reconnaissance,X,
+Weaponization,Resource Development,,X
+,Initial Access,X,
+,Execution,X,X
+Delivery,Persistance,X,X
+,Privilege Escalation,X,X
+,Defense Evasion,,X
+Exploitation,Credential Access,X,X
+,Discovery,X,X
+Installation,Lateral Movement,X,X
+,Collection,X,X
+Command and Control (C2),Command and Control (C2),X,X
+Action on Objectives,Exfiltration,X,X
+,Impact,X,X

@@ -1,0 +1,15 @@
+Cyber Kill Chain,MITRE ATT&CK,Obfuscation,Anti-Virus and EDR evasion,Sandbox Detection,Domain Generation Algorithm (DGA),Open Directory
+Reconnaissance,Reconnaissance,,,,,X
+Weaponization,Resource Development,X,X,,,
+,Initial Access,,,,,
+,Execution,,X,X,,
+Delivery,Persistance,,,,,
+,Privilege Escalation,,X,,,
+,Defense Evasion,X,X,X,,
+Exploitation,Credential Access,,,,,
+,Discovery,,X,,,X
+Installation,Lateral Movement,,,,,
+,Collection,,,,,X
+Command and Control (C2),Command and Control (C2),X,X,,X,X
+Action on Objectives,Exfiltration,X,X,,X,X
+,Impact,,,,,

@@ -1,0 +1,15 @@
+Cyber Kill Chain,MITRE ATT&CK,SAST,DAST
+Reconnaissance,Reconnaissance,"ipconfig, nslookup, CyberChef",wireshark
+Weaponization,Resource Development,"Ghidra (or IDA Pro), strings",
+,Initial Access,,wireshark
+,Execution,,"ProcMon, Process Explorer"
+Delivery,Persistance,,"ProcMon, Process Explorer"
+,Privilege Escalation,,"ProcMon, Process Explorer"
+,Defense Evasion,"CFF Explorer, PEiD, DIE, PE Explorer, UPX, strings","ProcMon, Process Explorer"
+Exploitation,Credential Access,,"ProcMon, Process Explorer"
+,Discovery,,"ProcMon, Process Explorer"
+Installation,Lateral Movement,,"ProcMon, Process Explorer"
+,Collection,,"ProcMon, Process Explorer"
+Command and Control (C2),Command and Control (C2),CyberChef,wireshark
+Action on Objectives,Exfiltration,CyberChef,wireshark
+,Impact,,"ProcMon, Process Explorer"

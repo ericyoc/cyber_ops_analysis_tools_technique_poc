@@ -1,0 +1,15 @@
+Cyber Kill Chain,MITRE ATT&CK,Executable (BIN),File System,Network Traffic
+Reconnaissance,Reconnaissance,,,X
+Weaponization,Resource Development,ELF/PE,X,
+,Initial Access,,,X
+,Execution,ELF/PE,,
+Delivery,Persistance,ELF/PE,X,
+,Privilege Escalation,ELF/PE,X,
+,Defense Evasion,ELF/PE,X,
+Exploitation,Credential Access,,X,X
+,Discovery,,X,X
+Installation,Lateral Movement,ELF/PE,X,X
+,Collection,,X,X
+Command and Control (C2),Command and Control (C2),,,X
+Action on Objectives,Exfiltration,,X,X
+,Impact,ELF/PE,X,X
