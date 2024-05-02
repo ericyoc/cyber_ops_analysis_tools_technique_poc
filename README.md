@@ -18,8 +18,7 @@ Mapping the Cyber Kill Chain and MITRE ATT&CK frameworks to tools and techniques
 
 This repository contains the following:
 
-Table 1.
-![](https://github.com/ericyoc/cyber_ops_analysis_tools_techniques/blob/main/tables/Table_1__Analysis_Techniques.csv)
+![Table 1.](https://github.com/ericyoc/cyber_ops_analysis_tools_techniques/blob/main/tables/Table_1__Analysis_Techniques.csv)
 
 ## Contributions
 
