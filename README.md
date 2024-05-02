@@ -2,6 +2,9 @@
 
 This repository provides a comprehensive mapping of the Cyber Kill Chain and MITRE ATT&CK frameworks to various tools and techniques commonly used in malware analysis, reverse engineering, and software exploitation analysis. By understanding how these frameworks align with specific tools and techniques, security professionals can effectively investigate, analyze, and mitigate cyber threats.
 
+## Motivating Article
+Balani, Z. ., & Mustafa, N. I. . (2023). Enhancing Cybersecurity Against Emerging Threats in the Future of Cyber Warfare. International Journal of Intelligent Systems and Applications in Engineering, 12(2s), 204–209. Retrieved from https://ijisae.org/index.php/IJISAE/article/view/3572.
+
 ## Importance of Cyber Kill Chain and MITRE ATT&CK Frameworks mapped to Tools and Techniques
 
 Mapping the Cyber Kill Chain and MITRE ATT&CK frameworks to tools and techniques offers several benefits:
