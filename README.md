@@ -23,7 +23,7 @@ This repository contains the following:
 ![Table 3.](https://github.com/ericyoc/cyber_ops_analysis_tools_techniques/blob/main/tables/Table_3__Analysis_Platforms.csv)
 ![Table 4.](https://github.com/ericyoc/cyber_ops_analysis_tools_techniques/blob/main/tables/Table_4__Anti-Analysis_Techniques.csv)
 ![Table 5.](https://github.com/ericyoc/cyber_ops_analysis_tools_techniques/blob/main/tables/Table_5__Sandbox_Analysis.csv)
-![Table 6.](https://github.com/ericyoc/cyber_ops_analysis_tools_techniques/blob/main/tables/Table_6__Offense_Defense_Examples.csv)
+![Table 6.](https://github.com/ericyoc/cyber_ops_analysis_tools_techniques/blob/main/tables/Table_6__Offense_and_Defense_Examples.csv)
 ![Table 7.](https://github.com/ericyoc/cyber_ops_analysis_tools_techniques/blob/main/tables/Table_7__Representative_Malware_Families.csv)
 
 
