@@ -19,12 +19,19 @@ Mapping the Cyber Kill Chain and MITRE ATT&CK frameworks to tools and techniques
 This repository contains the following:
 
 [Table 1. Cyber Kill Chain and MITRE ATT&CK Frameworks vs. Analysis Techniques](https://github.com/ericyoc/cyber_ops_analysis_tools_techniques/blob/main/tables/Table_1__Analysis_Techniques.csv)
+
 [Table 2. Cyber Kill Chain and MITRE ATT&CK Frameworks vs. Artifacts and Network Activity](https://github.com/ericyoc/cyber_ops_analysis_tools_techniques/blob/main/tables/Table_2__Artifacts_and_Network_Activity.csv)
+
 [Table 3. Cyber Kill Chain and MITRE ATT&CK Frameworks vs. Analysis Platforms](https://github.com/ericyoc/cyber_ops_analysis_tools_techniques/blob/main/tables/Table_3__Analysis_Platforms.csv)
+
 [Table 4. Cyber Kill Chain and MITRE ATT&CK Frameworks vs. Anti-Analysis Techniques](https://github.com/ericyoc/cyber_ops_analysis_tools_techniques/blob/main/tables/Table_4__Anti-Analysis_Techniques.csv)
+
 [Table 5. Cyber Kill Chain and MITRE ATT&CK Frameworks vs. Sandbox Analysis](https://github.com/ericyoc/cyber_ops_analysis_tools_techniques/blob/main/tables/Table_5__Sandbox_Analysis.csv)
+
 [Table 6. Cyber Kill Chain and MITRE ATT&CK Frameworks vs. Offense and Defense Examples](https://github.com/ericyoc/cyber_ops_analysis_tools_techniques/blob/main/tables/Table_6__Offense_and_Defense_Examples.csv)
+
 [Table 7. Cyber Kill Chain and MITRE ATT&CK Frameworks vs. Representative Malware Families](https://github.com/ericyoc/cyber_ops_analysis_tools_techniques/blob/main/tables/Table_7__Representative_Malware_Families.csv)
+
 
 
 ## Contributions
