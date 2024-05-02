@@ -18,16 +18,8 @@ Mapping the Cyber Kill Chain and MITRE ATT&CK frameworks to tools and techniques
 
 This repository contains the following:
 
-- `README.md`: This file, providing an overview of the repository and its purpose.
-- `mapping_tables/`: Directory containing CSV files for each mapping table.
-  - `Table_1_Analysis_Techniques.csv`: Mapping of analysis techniques to the Cyber Kill Chain and MITRE ATT&CK frameworks.
-  - `Table_2_Artifacts_and_Network_Activity.csv`: Mapping of artifacts and network activity to the frameworks.
-  - `Table_3_Analysis_Platforms.csv`: Mapping of analysis platforms to the frameworks.
-  - `Table_4_Anti-Analysis_Techniques.csv`: Mapping of anti-analysis techniques to the frameworks.
-  - `Table_5_Sandbox_Analysis.csv`: Mapping of sandbox analysis to the frameworks.
-  - `Table_6_Offense_and_Defense_Examples.csv`: Examples of offensive techniques and defensive measures for each stage of the frameworks.
-  - `Table_7_Representative_Malware_Families.csv`: Representative malware families associated with each stage of the frameworks.
-- `mapping_tables.py`: Python script to generate the mapping tables and save them as CSV files.
+Table 1.
+![](https://github.com/ericyoc/cyber_ops_analysis_tools_techniques/blob/main/tables/Table_1__Analysis_Techniques.csv)
 
 ## Contributions
 
