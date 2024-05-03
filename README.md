@@ -2,7 +2,7 @@
 
 This repository provides a comprehensive mapping of the Cyber Kill Chain and MITRE ATT&CK frameworks to various tools and techniques commonly used in malware analysis, reverse engineering, and software exploitation analysis. By understanding how these frameworks align with specific tools and techniques, security professionals can effectively investigate, analyze, and mitigate cyber threats.
 
-## Motivating Articles
+## Motivating Articles and Related Works
 
 Krasznay,C.(2024).The Role of Civilian Cybersecurity Companies in Military Cyber Operations. Land Forces Academy Review,29(1) 1-10. https://doi.org/10.2478/raft-2024-0001.
 
