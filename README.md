@@ -20,7 +20,7 @@ Mapping the Cyber Kill Chain and MITRE ATT&CK frameworks to tools and techniques
 
 4. **Proactive Defense**: Understanding the mapping allows security professionals to proactively identify potential attack vectors, implement appropriate security controls, and strengthen their overall security posture.
 
-## Repository Structure
+## Repository Contents
 
 This repository contains the following:
 
