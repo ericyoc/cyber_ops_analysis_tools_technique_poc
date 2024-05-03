@@ -8,6 +8,14 @@ Krasznay,C.(2024).The Role of Civilian Cybersecurity Companies in Military Cyber
 
 Balani, Z. ., & Mustafa, N. I. . (2023). Enhancing Cybersecurity Against Emerging Threats in the Future of Cyber Warfare. International Journal of Intelligent Systems and Applications in Engineering, 12(2s), 204–209. Retrieved from https://ijisae.org/index.php/IJISAE/article/view/3572.
 
+The Cyber Kill Chain
+https://www.lockheedmartin.com/en-us/capabilities/cyber/cyber-kill-chain.html
+Developed by Lockheed Martin, the Cyber Kill Chain® framework is part of the Intelligence Driven Defense® model for identification and prevention of cyber intrusions activity. The model identifies what the adversaries must complete in order to achieve their objective.
+
+MITRE ATT&CK
+https://attack.mitre.org/
+MITRE ATT&CK® is a globally-accessible knowledge base of adversary tactics and techniques based on real-world observations. The ATT&CK knowledge base is used as a foundation for the development of specific threat models and methodologies in the private sector, in government, and in the cybersecurity product and service community.
+
 ## Importance of Cyber Kill Chain and MITRE ATT&CK Frameworks mapped to Tools and Techniques
 
 Mapping the Cyber Kill Chain and MITRE ATT&CK frameworks to tools and techniques offers several benefits:
