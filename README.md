@@ -18,6 +18,11 @@ https://attack.mitre.org/
 
 MITRE ATT&CK® is a globally-accessible knowledge base of adversary tactics and techniques based on real-world observations. The ATT&CK knowledge base is used as a foundation for the development of specific threat models and methodologies in the private sector, in government, and in the cybersecurity product and service community.
 
+
+Diamond Model
+https://www.recordedfuture.com/blog/diamond-model-intrusion-analysis
+The Diamond Model can work in tandem with other frameworks such as MITRE ATT&CK and the Cyber Kill Chain. Each framework focuses on different components or elements of a cyberattack, helping analysts obtain a holistic picture of the incident.
+
 STIX
 https://oasis-open.github.io/cti-documentation/stix/intro.html
 
