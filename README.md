@@ -27,10 +27,10 @@ The Diamond Model can work in tandem with other frameworks such as MITRE ATT&CK 
 STIX
 https://oasis-open.github.io/cti-documentation/stix/intro.html
 
+Structured Threat Information Expression (STIX) is a language and serialization format used to exchange cyber threat intelligence (CTI). STIX is open source and free allowing those interested to contribute and ask questions freely.
+
 ## People
 https://www.thecyberyeti.com/
-
-Structured Threat Information Expression (STIX) is a language and serialization format used to exchange cyber threat intelligence (CTI). STIX is open source and free allowing those interested to contribute and ask questions freely.
 
 ## Importance of Cyber Kill Chain and MITRE ATT&CK Frameworks mapped to Tools and Techniques
 
