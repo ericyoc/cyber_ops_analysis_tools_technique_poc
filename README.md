@@ -31,6 +31,8 @@ Structured Threat Information Expression (STIX) is a language and serialization 
 ## Other Tools
 https://github.com/Dump-GUY/Malware-analysis-and-Reverse-engineering
 
+https://malware-traffic-analysis.net/
+
 ## People
 https://www.thecyberyeti.com/
 
