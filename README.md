@@ -18,7 +18,6 @@ https://attack.mitre.org/
 
 MITRE ATT&CK® is a globally-accessible knowledge base of adversary tactics and techniques based on real-world observations. The ATT&CK knowledge base is used as a foundation for the development of specific threat models and methodologies in the private sector, in government, and in the cybersecurity product and service community.
 
-
 Diamond Model
 https://www.recordedfuture.com/blog/diamond-model-intrusion-analysis
 
@@ -28,6 +27,9 @@ STIX
 https://oasis-open.github.io/cti-documentation/stix/intro.html
 
 Structured Threat Information Expression (STIX) is a language and serialization format used to exchange cyber threat intelligence (CTI). STIX is open source and free allowing those interested to contribute and ask questions freely.
+
+## Tools
+https://github.com/Dump-GUY/Malware-analysis-and-Reverse-engineering
 
 ## People
 https://www.thecyberyeti.com/
