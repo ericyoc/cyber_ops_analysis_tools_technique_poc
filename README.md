@@ -39,6 +39,8 @@ https://malware-traffic-analysis.net/
 
 https://github.com/Crypto-Cat/CTF
 
+https://www.shodan.io/
+
 ## People
 https://www.thecyberyeti.com/
 
