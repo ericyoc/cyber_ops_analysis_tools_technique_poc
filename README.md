@@ -8,6 +8,8 @@ Krasznay,C.(2024).The Role of Civilian Cybersecurity Companies in Military Cyber
 
 Balani, Z. ., & Mustafa, N. I. . (2023). Enhancing Cybersecurity Against Emerging Threats in the Future of Cyber Warfare. International Journal of Intelligent Systems and Applications in Engineering, 12(2s), 204–209. Retrieved from https://ijisae.org/index.php/IJISAE/article/view/3572.
 
+Bermejo Higuera J, Abad Aramburu C, Bermejo Higuera J-R, Sicilia Urban MA, Sicilia Montalvo JA. Systematic Approach to Malware Analysis (SAMA). Applied Sciences. 2020; 10(4):1360. https://doi.org/10.3390/app10041360
+
 The Cyber Kill Chain
 https://www.lockheedmartin.com/en-us/capabilities/cyber/cyber-kill-chain.html
 
