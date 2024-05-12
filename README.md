@@ -28,6 +28,9 @@ https://oasis-open.github.io/cti-documentation/stix/intro.html
 
 Structured Threat Information Expression (STIX) is a language and serialization format used to exchange cyber threat intelligence (CTI). STIX is open source and free allowing those interested to contribute and ask questions freely.
 
+## Older Works
+Cory Q. Nguyen and James E. Goldman. 2010. Malware analysis reverse engineering (MARE) methodology & malware defense (M.D.) timeline. In 2010 Information Security Curriculum Development Conference (InfoSecCD '10). Association for Computing Machinery, New York, NY, USA, 8–14. https://doi.org/10.1145/1940941.1940944
+
 ## Other Tools
 https://ir0nstone.gitbook.io/notes/types/stack/introduction
 
